@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : 
-  avatar           : 
+  avatar           : profile.png
   bio              : "Epidemiologist and Data Scientist <br> <br> Postdoctoral Fellow at Northwestern"
   location         :  "Chicago, IL"
   employer         : 
