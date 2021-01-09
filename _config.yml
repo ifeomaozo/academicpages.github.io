@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : 
+  name             : "Home"
   avatar           : "ifeoma.jpeg"
   bio              : "Epidemiologist & Data Scientist <br> <br> <a style='color: black;' href='https://www.numalariamodeling.org/'> Postdoctoral Fellow at Northwestern University</a>"
   location         :  "Chicago, IL"
