@@ -8,4 +8,4 @@ date: 2020-11-13
 location: "Chicago, IL (Zoom talk)"
 ---
 
-Malaria transmission in Nigeria is heterogeneous at lower spatial scales, and understanding the drivers of transmission can inform decisions on where interventions should be prioritized. In this joint talk with Chilo Chiziba, we discussed our statistical modeling work aimed to identify factors associated with high levels of malaria transmission within urban and rural areas. See event announcement <ins>[here](http://www.youtube.com/watch?v=w0Mo4qE3Pfw)</ins>
+In this talk, I discussed the analytical framework that we developed to predict the impact of the Nigeria's National Malaria Elimination Programme's proposed intervention strategy on malaria morbidity and mortality on each of the 774 local government areas. Our framework was built on EMOD, an agent-based model of _Plasmodium_ _falciparum_ transmission, and incorporates survey, routine, and programmatic data. Watch the recorded talk <ins>[here](http://www.youtube.com/watch?v=w0Mo4qE3Pfw)</ins>
