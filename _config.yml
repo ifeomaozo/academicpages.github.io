@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : ""
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Ifeoma Ozodiegwu"
+description              : &description "Epidemiologist and Data Scientist"
 url                      : https://ifeomaozo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "ifeomaozo/ifeomaozo.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "ifeomaozo"
 facebook:
   username               :
   app_id                 :
@@ -81,9 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Ifeoma Ozodiegwu"
-  avatar           : "ifeoma.jpeg"
-  bio              : "Postdoctoral Fellow"
-  employer         : "Northwestern University"
+  avatar           : "ifeoma.jpg"
+   bio              : "Epidemiologist and Data Scientist <br> <br> Postdoctoral Fellow at Northwestern University"
+  location         : Chicago, IL
+  employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=v1bbB_YAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -94,20 +95,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/ifeomaozo"
+  github           : "ifeomaozo"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/ifeomaozodiegwu/"
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0001-7810-414X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@ifeomaozo"
+  twitter          : *twitter
   vine             :
   weibo            :
   xing             :
