@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Ifeoma Ozodiegwu"
+name                     : &name "Home"
 description              : &description "Epidemiologist and Data Scientist"
 url                      : https://ifeomaozo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Home"
+  name             : "Ifeoma Ozodiegwu"
   avatar           : "ifeoma.jpeg"
   bio              : "Epidemiologist & Data Scientist <br> <br> <a style='color: black;' href='https://www.numalariamodeling.org/'> Postdoctoral Fellow at Northwestern University</a>"
   location         :  "Chicago, IL"
