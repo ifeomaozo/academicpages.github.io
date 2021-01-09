@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : 
-  avatar           : profile.png
+  avatar           : "ifeoma.jpg"
   bio              : "Epidemiologist & Data Scientist"
   location         :  "Chicago, IL"
   employer         : 
@@ -101,7 +101,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/ifeomaozodiegwu"
+  linkedin         : "https://linkedin.com/in/ifeomaozodiegwu"
   orcid            : "https://orcid.org/0000-0001-7810-414X"
   pinterest        :
   soundcloud       :
