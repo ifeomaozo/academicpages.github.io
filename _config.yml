@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : 
-  avatar           : "ifeoma.jpg"
-  bio              : "Epidemiologist and Data Scientist <br> <br> Postdoctoral Fellow at Northwestern University<a style='color: black;' href='http://communication.ucsd.edu'>Department of Communication</a> & <a style='color: black;' href='http://hdsi.ucsd.edu'>Data Science Institute</a>"
-  location         : Chicago, IL
+  avatar           : 
+  bio              : "Epidemiologist and Data Scientist <br> <br> 'href='https://www.numalariamodeling.org'>Postdoctoral Fellow at Northwestern </a> &<a style='color: black"
+  location         :  "Chicago, IL"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=v1bbB_YAAAAJ&hl=en"
   email            :
