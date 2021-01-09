@@ -1,7 +1,7 @@
 ---
-title: "Paper Title Number 1"
+title: "Is the positive association between middle-income and rich household wealth and adult sub-Saharan African women's overweight status modified by the level of educational attainment? A cross-sectional study of 22 countries"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2020-05-25-BMC-wealth-education
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
