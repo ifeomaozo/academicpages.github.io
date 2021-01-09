@@ -82,7 +82,7 @@ analytics:
 author:
   name             : 
   avatar           : "ifeoma.jpeg"
-  bio              : "Epidemiologist & Data Scientist <br> <br>, <a href="https://www.numalariamodeling.org/"> Postdoctoral Fellow at Northwestern University</a>
+  bio              : "Epidemiologist & Data Scientist <br> <br>, <a href='https://www.numalariamodeling.org/'> Postdoctoral Fellow at Northwestern University</a>"
   location         :  "Chicago, IL"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=v1bbB_YAAAAJ&hl=en"
