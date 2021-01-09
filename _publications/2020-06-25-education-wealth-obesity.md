@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-06-25-education-wealth-obesity
 date: 2020-06-25
 venue: 'BMC Public Health'
-paperurl:'https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-020-08956-3'
+paperurl:
 citation: 'Ozodiegwu ID, Doctor HV, Quinn M, Mercer LD, Omoike EO, Mamudu HM (2020). Is the positive association of
 middle Income and rich household wealth on adult sub-Saharan African women’s overweight status modified by the level of education attainment? A cross-sectional study of 22 countries. BMC Public Health, https://doi.org/10.1186/s12889-020-08956-3'
 ---
