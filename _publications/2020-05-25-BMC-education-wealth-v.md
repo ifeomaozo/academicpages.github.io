@@ -12,4 +12,4 @@ paperurl: 'http://ifeomaozo.github.io/files/obesity_wealth_education.pdf'
 
 [Download paper here](http://ifeomaozo.github.io/files/obesity_wealth_education.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[//]: # (Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).)
