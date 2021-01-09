@@ -2,11 +2,11 @@
 title: "Is the positive association between middle-income and rich household wealth and adult sub-Saharan African women's overweight status modified by the level of educational attainment? A cross-sectional study of 22 countries"
 collection: publications
 permalink: /publication/2020-05-25-BMC-wealth-education
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://ifeomaozo.github.io/files/paper1.pdf'
-citation: 'Ozodiegwu, Ifeoma. (2020). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'In this paper we examine the effect modification of education on the relationship between wealth and overweight status.'
+date: 2020-05-25
+venue: 'BMC Public Health'
+paperurl: ''
+citation: 'Ozodiegwu, ID, Doctor HV, . (2020). &quot;Is the positive association between middle-income and rich household wealth and adult sub-Saharan African women's overweight status modified by the level of educational attainment? A cross-sectional study of 22 countries.&quot; <i>BMC Public Health</i>. 1(1).'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 

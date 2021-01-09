@@ -22,9 +22,10 @@
 # We are using the very handy pandas library for dataframes.
 
 # In[2]:
-
 import pandas as pd
-
+import os
+import pandas as pd
+import os
 
 # ## Import TSV
 # 
@@ -34,7 +35,11 @@ import pandas as pd
 
 # In[3]:
 
-publications = pd.read_csv("publications.tsv", sep="\t", header=0)
+projectpath = 'C:/Users/ido0493/Documents/academicpages.github.io/markdown_generator'
+
+file = os.path.join(projectpath, "Book1.tsv").replace("\\","/")
+file
+publications = pd.read_csv(file, sep="\t", header=0)
 publications
 
 
