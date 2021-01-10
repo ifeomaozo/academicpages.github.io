@@ -1,6 +1,6 @@
 ---
 permalink: /
-title
+title:
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Fellow with the [Malaria Modeling Research Group](http://www.numalariamodeling.org]. I lead survey data analysis and simulation modeling to understand the impact of malaria intervention mixes at finer spatial scale to inform national strategic planning in endemic countries. I also lead statistical modeling to understand urban-rural determinants of malaria tranmission. I am actively looking for Research Scientist roles in the pharmaceutical or public health space so feel free to read out to me via email at ozodiegwui@gmail.com.
+I am a Postdoctoral Fellow with the [Malaria Modeling Research Group](http://www.numalariamodeling.org). I lead survey data analysis and simulation modeling to understand the impact of malaria intervention mixes at finer spatial scale to inform national strategic planning in endemic countries. I also lead statistical modeling to understand urban-rural determinants of malaria tranmission. I am actively looking for Research Scientist roles in the pharmaceutical or public health space so feel free to read out to me via email at ozodiegwui@gmail.com.
 
 Prior to my postdoc, I applied traditional regression models and bayesian spatial models to [analyse the prevalence and context of adult female overweight and obesity in African countries](http://pdfs.semanticscholar.org/e268/97165b6eef2dce34009bc24b51a271005653.pdf) as part of my Doctor of Public Health (DrPH) program, which I completed in 2019 from East Tennessee State University. My research received several awards including a [Rotary International Global Grant](http://www.rotary7570.org/ItemDetails.aspx?DataItemID=oEjpXRE3cxo%3D). Check out my [LinkedIn profile](https://www.linkedin.com/in/ifeomaozodiegwu/) for a list of all my achievements 
 
