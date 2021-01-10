@@ -21,11 +21,11 @@ Prior to my postdoc, I applied traditional regression models and bayesian spatia
 
 
 ### Other Recent News
-* Our impact prediction work was cited in the [World Malaria Report](https://www.nber.org/papers/w28152). Many thanks to everyone that contributed 
+* Our impact prediction work was cited in the [ 2020 World Malaria Report](http://who.int/publications/i/item/9789240015791). Many thanks to everyone that contributed. 
 
-* I have been invited to mentor graduate students for the WiDS Kaggle competition. I was a data science mentor last year and recieved this [letter of commendation]()
+* I have been invited to mentor graduate students for the WiDS Kaggle competition. I was a data science mentor last year and recieved this [letter of commendation](http://ifeomaozo.github.io/files/IDO_WiDS.pdf)
 
-* I was once again invited to guest lecture the Graduuate student Global Delivery Course at Northwestern's Institute for Global Health. I will be faciliating a malaria case study and discussing our malaria modeling work. 
+* I was once again invited to guest lecture the Graduate student Global Delivery Course at Northwestern's Institute for Global Health. I will be faciliating a malaria case study and discussing our malaria modeling work. 
 
 
 ### About this website
