@@ -19,7 +19,7 @@ Prior to my postdoc, I applied traditional regression models and bayesian spatia
 
 * A first draft of our paper on the application of mathematical models of malaria transmission for fine-scale impact prediction is currently undergoing review and will be available on this website soon.
 
-*A draft of a systematic review on the global implementation of the adverse child experiences surveys conducted as part of a collaborative project with colleagues at ETSU is available for download [here.](http://ifeomaozo.github.io/files/Systematic Review of ACEs_12-2-2020.pdf)
+* A draft of a systematic review on the global implementation of the adverse child experiences surveys conducted as part of a collaborative project with colleagues at ETSU is available for download [here.](http://ifeomaozo.github.io/files/Systematic Review of ACEs_12-2-2020.pdf)
 
 
 ### Other Recent News
